@@ -9,7 +9,7 @@
 <body>
  hellow
  <?php 
-  echo welcome to website;
+  echo "welcome to website";
  ?>    
 
 </body>
