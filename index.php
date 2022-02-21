@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
- hellow
+ welcome to web site 
  <?php 
   echo "welcome to website";
  ?>    
